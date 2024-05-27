@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "32GflsT2zs3D/M8uG2Lhc/fC9dyvYGXXmOqo1iywHfk=",
+  "Source": "BlazorServerCleanArchtecture.WebUi",
+  "BasePath": "_content/BlazorServerCleanArchtecture.WebUi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "BlazorServerCleanArchtecture.WebUi\\wwwroot",
+      "Source": "BlazorServerCleanArchtecture.WebUi",
+      "ContentRoot": "C:\\Users\\Thiago\\Desktop\\BlazorCleanArchtecture\\BlazorServerCleanArchtecture.WebUi\\wwwroot\\",
+      "BasePath": "_content/BlazorServerCleanArchtecture.WebUi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Thiago\\Desktop\\BlazorCleanArchtecture\\BlazorServerCleanArchtecture.WebUi\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BlazorServerCleanArchtecture.WebUi.styles.css",
+      "SourceId": "BlazorServerCleanArchtecture.WebUi",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Thiago\\Desktop\\BlazorCleanArchtecture\\BlazorServerCleanArchtecture.WebUi\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/BlazorServerCleanArchtecture.WebUi",
+      "RelativePath": "BlazorServerCleanArchtecture.WebUi.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Thiago\\Desktop\\BlazorCleanArchtecture\\BlazorServerCleanArchtecture.WebUi\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BlazorServerCleanArchtecture.WebUi.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\Thiago\\Desktop\\BlazorCleanArchtecture\\BlazorServerCleanArchtecture.WebUi\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazorServerCleanArchtecture.WebUi.bundle.scp.css",
+      "SourceId": "BlazorServerCleanArchtecture.WebUi",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Thiago\\Desktop\\BlazorCleanArchtecture\\BlazorServerCleanArchtecture.WebUi\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/BlazorServerCleanArchtecture.WebUi",
+      "RelativePath": "BlazorServerCleanArchtecture.WebUi.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Thiago\\Desktop\\BlazorCleanArchtecture\\BlazorServerCleanArchtecture.WebUi\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazorServerCleanArchtecture.WebUi.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\Thiago\\Desktop\\BlazorCleanArchtecture\\BlazorServerCleanArchtecture.WebUi\\wwwroot\\app.css",
+      "SourceId": "BlazorServerCleanArchtecture.WebUi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Thiago\\Desktop\\BlazorCleanArchtecture\\BlazorServerCleanArchtecture.WebUi\\wwwroot\\",
+      "BasePath": "_content/BlazorServerCleanArchtecture.WebUi",
+      "RelativePath": "app.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\app.css"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+C:\Users\Thiago\Desktop\BlazorCleanArchtecture\BlazorServerCleanArchtecture.Domain\bin\Debug\net8.0\BlazorServerCleanArchtecture.Domain.deps.json
+C:\Users\Thiago\Desktop\BlazorCleanArchtecture\BlazorServerCleanArchtecture.Domain\bin\Debug\net8.0\BlazorServerCleanArchtecture.Domain.dll
+C:\Users\Thiago\Desktop\BlazorCleanArchtecture\BlazorServerCleanArchtecture.Domain\bin\Debug\net8.0\BlazorServerCleanArchtecture.Domain.pdb
+C:\Users\Thiago\Desktop\BlazorCleanArchtecture\BlazorServerCleanArchtecture.Domain\obj\Debug\net8.0\BlazorServerCleanArchtecture.Domain.csproj.AssemblyReference.cache
+C:\Users\Thiago\Desktop\BlazorCleanArchtecture\BlazorServerCleanArchtecture.Domain\obj\Debug\net8.0\BlazorServerCleanArchtecture.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thiago\Desktop\BlazorCleanArchtecture\BlazorServerCleanArchtecture.Domain\obj\Debug\net8.0\BlazorServerCleanArchtecture.Domain.AssemblyInfoInputs.cache
+C:\Users\Thiago\Desktop\BlazorCleanArchtecture\BlazorServerCleanArchtecture.Domain\obj\Debug\net8.0\BlazorServerCleanArchtecture.Domain.AssemblyInfo.cs
+C:\Users\Thiago\Desktop\BlazorCleanArchtecture\BlazorServerCleanArchtecture.Domain\obj\Debug\net8.0\BlazorServerCleanArchtecture.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\Desktop\BlazorCleanArchtecture\BlazorServerCleanArchtecture.Domain\obj\Debug\net8.0\BlazorServerCleanArchtecture.Domain.dll
+C:\Users\Thiago\Desktop\BlazorCleanArchtecture\BlazorServerCleanArchtecture.Domain\obj\Debug\net8.0\refint\BlazorServerCleanArchtecture.Domain.dll
+C:\Users\Thiago\Desktop\BlazorCleanArchtecture\BlazorServerCleanArchtecture.Domain\obj\Debug\net8.0\BlazorServerCleanArchtecture.Domain.pdb
+C:\Users\Thiago\Desktop\BlazorCleanArchtecture\BlazorServerCleanArchtecture.Domain\obj\Debug\net8.0\ref\BlazorServerCleanArchtecture.Domain.dll

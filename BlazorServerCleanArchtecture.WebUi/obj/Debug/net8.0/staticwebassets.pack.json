@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Thiago\\Desktop\\BlazorCleanArchtecture\\BlazorServerCleanArchtecture.WebUi\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazorServerCleanArchtecture.WebUi.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BlazorServerCleanArchtecture.WebUi.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Thiago\\Desktop\\BlazorCleanArchtecture\\BlazorServerCleanArchtecture.WebUi\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BlazorServerCleanArchtecture.WebUi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BlazorServerCleanArchtecture.WebUi.props",
+      "PackagePath": "build\\BlazorServerCleanArchtecture.WebUi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BlazorServerCleanArchtecture.WebUi.props",
+      "PackagePath": "buildMultiTargeting\\BlazorServerCleanArchtecture.WebUi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BlazorServerCleanArchtecture.WebUi.props",
+      "PackagePath": "buildTransitive\\BlazorServerCleanArchtecture.WebUi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
